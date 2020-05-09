@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fake Message</string>
+    <string name="chamar_nova_activity">Chamar nova activity</string>
+    <string name="digite_sua_mensagem">Digite sua mensagem</string>
+    <string name="chamar_resposta">chamar resposta</string>
+    <string name="activity_new_welcome">Você está na new activity</string>
+    <string name="activity_new_resposta">Resposta</string>
+    <string name="activity_new_enviar_resposta">Enviar resposta</string>
+</resources>
